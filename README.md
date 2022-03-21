@@ -63,7 +63,9 @@ We love to eat, like to meet new people and have good conversation and fun compa
 
 Visit the links below!
 
-GitHub: [Nosh Up GitHub Repo](https://github.com/limichael97/Nosh-Up.git)
+Original Group Repo on GitHub: [Nosh Up GitHub Repo](https://github.com/limichael97/Nosh-Up.git)
+
+My Repo on Github: [Nosh Up GitHub Repo](https://github.com/MellieDee/Nosh-Up)
 
 Heroku: [Nosh Up on Heroku](http://nosh-up.herokuapp.com)
 
